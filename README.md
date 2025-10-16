@@ -15,13 +15,22 @@ I am an **Software Engineering student** and I love solving complex problems wit
 
 Showcasing my current core stack with badges:
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- Programming Languages & Frameworks -->
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
+<!-- Databases & Infrastructure -->
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+<!-- Tools & IDEs -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ---
 
 ### 📈 My GitHub Statistics
@@ -34,7 +43,7 @@ Showcasing my current core stack with badges:
 
 <br clear="both"/> 
 
-#### 🔥 Daily Activity Streak (Added for more engagement!)
+#### 🔥 Daily Activity Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadureiraHenrique&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=F7035F" alt="GitHub Streak" />
@@ -46,7 +55,7 @@ Showcasing my current core stack with badges:
 
 | **Platform** | **Link** | 
 | :--- | :--- |
-| **LinkedIn** | [Connect with me on LinkedIn](www.linkedin.com/in/henrique-madureira-1a0538363) | 
+| **LinkedIn** | www.linkedin.com/in/henrique-madureira-1a0538363 | 
 | **Email** | carloshenriquemadureira.santos@ucsal.edu.br | 
 | **Personal Site** | [My Portfolio (Coming...)](...) |
 
