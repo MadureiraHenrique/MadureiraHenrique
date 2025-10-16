@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # Olá, sou o Carlos Henrique! 👋
-### Desenvolvedor Back-end e entusiasta de Programação Orientada a Objetos (POO)
+### Desenvolvedor Back-end Java e entusiasta de Programação Orientada a Objetos (POO)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e adoro resolver problemas complexos com código limpo (quando tenho tempo, haha!).
+Sou estudante de Engenharia de Software e adoro resolver problemas complexos com código limpo (quando tenho tempo, haha!).
 
 <!-- Efeito de digitação animado -->
 <p align="left">
